@@ -1,4 +1,4 @@
-[Información](Infromación.md) 
+[Información](Infromación.md) [Convocatoria](Convocatoria.md) [Cartelera](Cartelera.md) [Disciplina](Disciplina.md)
 
 Bienvenido a nuestra organización de Danza.
 
