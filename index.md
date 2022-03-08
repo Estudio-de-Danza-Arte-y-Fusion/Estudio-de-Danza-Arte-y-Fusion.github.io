@@ -1,4 +1,4 @@
-(
+[Información](Infromación.md) 
 
 Bienvenido a nuestra organización de Danza.
 
