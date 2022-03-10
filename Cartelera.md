@@ -2,4 +2,6 @@
 
 ## Cartelera
 
-Aqui puedes
+Aqui puedes revisar fechas, horarios, lugar y costo de las presetaciones
+
+|
