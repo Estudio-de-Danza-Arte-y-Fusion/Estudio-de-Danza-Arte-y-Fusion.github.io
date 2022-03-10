@@ -2,3 +2,6 @@
 
 ##Información
 
+Dirección: Catedral de Guadalupe Victoria, Ecatepec, edo. de Mexico
+Telefono: 5631258769
+
