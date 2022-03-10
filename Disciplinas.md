@@ -1,5 +1,6 @@
-[Información](Informacion.md) [Convocatorias](Convocatorias.md) [Cartelera](Cartelera.md) [Disciplina](Disciplina.md)
-##Disciplinas
+[Información](Informacion.md) [Convocatorias](Convocatorias.md) [Cartelera](Cartelera.md) [Disciplinas](Disciplinas.msd)
+
+## Disciplinas
 
 Disciplinas que se imparten:
 
