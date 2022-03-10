@@ -1,4 +1,4 @@
-[Información](Infromación.md) [Convocatoria](Convocatoria.md) [Cartelera](Cartelera.md) [Disciplina](Disciplina.md)
+[Información](Informacion.md) [Convocatorias](Convocatorias.md) [Cartelera](Cartelera.md) [Disciplina](Disciplina.md)
 
 ##Convocatorias
 
