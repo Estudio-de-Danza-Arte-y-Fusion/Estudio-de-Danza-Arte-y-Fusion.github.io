@@ -4,7 +4,7 @@
 
 <form>
   <label for="name">Nombres:</label><br>
-  <input type="text" id="name" name="name" value="Tus nombres"<br>
+  <input type="text" id="name" name="name" value="Tus nombres"><br>
   <label for="lname">Apellidos:</label><br>
   <input type="text" id="lname" name="lname" value="Apellidos"><br>
   </from>
