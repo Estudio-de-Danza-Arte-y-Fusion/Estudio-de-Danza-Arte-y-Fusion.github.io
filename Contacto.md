@@ -2,11 +2,17 @@
 
 ## Soporte de Contacto
 
-<form>
+<form action="/action_page.php">
   <label for="name">Nombres:</label><br>
   <input type="text" id="name" name="name" value="Tus nombres"><br>
   <label for="lname">Apellidos:</label><br>
   <input type="text" id="lname" name="lname" value="Apellidos"><br>
+  
+  <label for="telefono">N° de telefono:</label><br>
+  <input type="text" id="telefono" telefono="telefono" value="n° de telefono"><br>
+  <label for="inscripción">Tipo de Inscripción:</label><br>
+    <input type="submit" value="Enviar">
+      
   </form>
 
 
