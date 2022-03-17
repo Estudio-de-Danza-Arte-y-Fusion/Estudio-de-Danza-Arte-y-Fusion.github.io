@@ -11,6 +11,7 @@
   <label for="telefono">N° de telefono:</label><br>
   <input type="text" id="telefono" telefono="telefono" value="n° de telefono"><br>
   <label for="inscripción">Tipo de Inscripción:</label><br>
+  
   <input type="date" id="birthday" name="birthday">
 
   <input type="submit" value="Enviar">
