@@ -13,7 +13,7 @@
   <label for="correo">Correo:</label><br>
   <input type="correo" id="correo" name="correo" value="Correo"><br>
   <label for="inscripción">Inscripción:</label><br>
-  <input type="text" id="inscripción" name="inscripción" value="Telefono"><br>
+  <input type="text" id="inscripción" name="inscripción" value="Inscripción"><br>
   <input type="date" id="fecha" name="Fecha">
 
   <input type="submit" value="Enviar">
