@@ -8,12 +8,13 @@
   <label for="lname">Apellidos:</label><br>
   <input type="text" id="lname" name="lname" value="Apellidos"><br>
   
-  <label for="telefono">N° de telefono:</label><br>
-  <input type="text" id="telefono" telefono="telefono" value="n° de telefono"><br>
-  <label for="inscripción">Tipo de Inscripción:</label><br>
-  <input type="text" id="inscripción" inscripción="inscripción" value="Tipo de Inscripción"><br>
-  
-  <input type="date" id="fecha" name="Fecha de Inicio">
+  <label for="telefono">Telefono:</label><br>
+  <input type="text" id="telefono" name="telefono" value="Telefono"><br>
+  <label for="correo">Correo:</label><br>
+  <input type="correo" id="correo" name="correo" value="Correo"><br>
+  <label for="inscripción">Inscripción:</label><br>
+  <input type="text" id="inscripción" name="inscripción" value="Telefono"><br>
+  <input type="date" id="fecha" name="Fecha">
 
   <input type="submit" value="Enviar">
       
